@@ -1,0 +1,9 @@
+RPS
+  Player input
+  AI input
+  Judge
+  Game
+
+  As a player I should be able to enter either R P or S
+  and play against a computer
+  (Rock always wins BOOM)
